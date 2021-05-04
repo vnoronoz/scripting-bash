@@ -1,0 +1,6 @@
+#!/bin/bash
+./EJERCICIO2_DESCARGA.sh
+./EJERCICIO2_B_BASH.sh
+./EJERCICIO2_B_AWK.awk CCVG.csv
+./EJERCICIO_2_C.sh > out.html
+./EJERCICIO_2_D.sh
